@@ -2,12 +2,10 @@
 # Name:        PassGuard
 # Purpose:
 #
-# Author:      Joshua
+# Author:      Firedupjosh
 #
 # Created:     22/06/2023
-# Copyright:   (c) Josh 2023
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+-------------------------------------------------
 
 
 
@@ -19,15 +17,13 @@
 
 #
 
-# Author:      Joshua
-
+# Author:      Firedupjosh
 #
 
 # Created:     22/06/2023
 
-# Copyright:   (c) Josh 2023
 
-# Licence:     <your licence>
+# Make sure to have a text file called tester1projectpass.txt this is where your information will be stored.
 
 #-------------------------------------------------------------------------------
 
